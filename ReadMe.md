@@ -16,7 +16,7 @@ glob, scipy, numpy, cv2, pfm, matplotlib, pydicom, SiimpleITK, re
 
 ## Usage Guidance
 
-1. Install the DRR software from [here](https://www.plastimatch.org/) on a Windows computer, and we use 1.7.3.12-win64 version in our original work.
+1. Install the DRR software from [here](https://sourceforge.net/p/plastimatch/activity/?page=0&limit=100#5ccb62c2f0d34730bafa130d) on a Windows computer, and we use 1.7.3.12-win64 version in our original work.
 
 2. Download [LIDC-IDRI dataset](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI). (Note: Original dataset has a size of 125 GB. You could only download part of it, since this code could process it anyway)
 
